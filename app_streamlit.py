@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import torch
-from src.model import MLP
+# from src.model import MLP
 
 # Paths to artifacts
 ARTIFACTS_DIR = "artifacts"
