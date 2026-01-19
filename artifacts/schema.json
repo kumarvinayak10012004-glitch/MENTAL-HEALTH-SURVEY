@@ -1,0 +1,21 @@
+{
+  "numeric_cols": [
+    "Age",
+    "Work_Hours",
+    "Sleep_Hours"
+  ],
+  "categorical_cols": [
+    "Gender",
+    "Job_Role",
+    "Family_History"
+  ],
+  "feature_cols": [
+    "Age",
+    "Work_Hours",
+    "Sleep_Hours",
+    "Gender",
+    "Job_Role",
+    "Family_History"
+  ],
+  "target_col": "Depression"
+}
